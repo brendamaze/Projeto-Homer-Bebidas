@@ -16,6 +16,7 @@ FERRAMENTAS E METODOLOGIAS USADAS
 - DAO
 
 COMO USAR
+- Baixe e extraia o arquivo .rar
 - Instale e configure o JDK 21 e o Maven (caso não estejam devidamente configurados)
 - Instale o Xampp Server, inicie o mysql e crie uma base de dados e um usuário correspondentes ao projeto
 - Use o banco de dados criado e cole o script do arquivo "Create_homervarejo"
